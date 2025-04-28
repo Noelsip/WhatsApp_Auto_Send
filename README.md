@@ -70,4 +70,6 @@ python main.py
 ```
 
 - Program akan membuka tab WhatsApp Web, mengirimkan pesan ke setiap nomor satu per satu, dan menutup tab setelah selesai.
-- Program menggunakan pyautogui untuk klik otomatis, jadi **JANGAN GERAKAN MOUSE ATAU KURSOS SAAT MENGIRIM PESAN.**
+- Program menggunakan pyautogui untuk klik otomatis, jadi 
+
+**JANGAN GERAKAN MOUSE ATAU KURSOS SAAT MENGIRIM PESAN.**
